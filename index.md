@@ -1,3 +1,8 @@
+# Dawon Jeong's First CS193 Homework
+- I like how the iclicker works in the class.
+- The class environment is very cozy.
+- Like how students are engaged to the class and ask questions.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
